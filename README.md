@@ -1,21 +1,18 @@
-# Alfred Inc. – Official Website
+# Alfred Inc. – Ecosistemas Inteligentes con IA
 
-Bienvenido al repositorio oficial de **Alfred Inc.**, el ecosistema inteligente impulsado por IA.
+🌐 **Dominio:** [https://www.alfred-inc.com](https://www.alfred-inc.com)
 
-## 🌐 Sitio Web
-Este sitio incluye:
-- Página principal (`index.html`)
-- Políticas de privacidad (`privacy.html`)
-- Términos y condiciones (`terms.html`)
-- Diseño responsivo con **CSS minimalista**
-- Favicon personalizado con estilo clásico (sombrero inglés)
+## 📌 Descripción
+Alfred Inc. es un ecosistema que integra Inteligencia Artificial, automatización y soluciones digitales.
 
-## 🚀 Objetivo
-Crear un ecosistema integral con inteligencia artificial, contenido automatizado y gestión avanzada, todo desde un entorno seguro y escalable.
+## ✅ Características
+- Diseño responsive
+- Optimización SEO
+- Favicon personalizado (sombrero inglés)
+- Páginas:
+  - `index.html`
+  - `privacy.html`
+  - `terms.html`
 
-## 🛡️ Licencia
-Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
----
-
-💡 **Desarrollado por Alfred Inc. – Potenciado por IA**
+## 🚀 Deployment
+El sitio está activo en **GitHub Pages** + **Cloudflare**:
